@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CampIntro", "01_CampIntro\01_CampIntro.csproj", "{5E30F014-7D84-4207-9D28-4974B4DBAF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_CampIntro", "01_CampIntro\01_CampIntro.csproj", "{5E30F014-7D84-4207-9D28-4974B4DBAF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Loops", "02_Loops\02_Loops.csproj", "{42539734-176A-422A-809F-FE7232AF38CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Loops", "02_Loops\02_Loops.csproj", "{42539734-176A-422A-809F-FE7232AF38CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ClassIntro", "03_ClassIntro\03_ClassIntro.csproj", "{30850E2B-F6C2-4BAC-951A-89BE146A7C43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_ClassIntro", "03_ClassIntro\03_ClassIntro.csproj", "{30850E2B-F6C2-4BAC-951A-89BE146A7C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Methods", "04_Methods\04_Methods.csproj", "{D0D7B35D-86AC-4637-BC45-A921EABA3023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{30850E2B-F6C2-4BAC-951A-89BE146A7C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30850E2B-F6C2-4BAC-951A-89BE146A7C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30850E2B-F6C2-4BAC-951A-89BE146A7C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D7B35D-86AC-4637-BC45-A921EABA3023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D7B35D-86AC-4637-BC45-A921EABA3023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D7B35D-86AC-4637-BC45-A921EABA3023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D7B35D-86AC-4637-BC45-A921EABA3023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
