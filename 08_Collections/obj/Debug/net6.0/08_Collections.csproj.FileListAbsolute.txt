@@ -1,0 +1,15 @@
+C:\Users\Mir\source\repos\CampIntro\08_Collections\bin\Debug\net6.0\08_Collections.exe
+C:\Users\Mir\source\repos\CampIntro\08_Collections\bin\Debug\net6.0\08_Collections.deps.json
+C:\Users\Mir\source\repos\CampIntro\08_Collections\bin\Debug\net6.0\08_Collections.runtimeconfig.json
+C:\Users\Mir\source\repos\CampIntro\08_Collections\bin\Debug\net6.0\08_Collections.dll
+C:\Users\Mir\source\repos\CampIntro\08_Collections\bin\Debug\net6.0\08_Collections.pdb
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.AssemblyInfoInputs.cache
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.AssemblyInfo.cs
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.sourcelink.json
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.dll
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\refint\08_Collections.dll
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.pdb
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\08_Collections.genruntimeconfig.cache
+C:\Users\Mir\source\repos\CampIntro\08_Collections\obj\Debug\net6.0\ref\08_Collections.dll
