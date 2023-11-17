@@ -1,0 +1,15 @@
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\bin\Debug\net6.0\01_CampIntro.exe
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\bin\Debug\net6.0\01_CampIntro.deps.json
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\bin\Debug\net6.0\01_CampIntro.runtimeconfig.json
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\bin\Debug\net6.0\01_CampIntro.dll
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\bin\Debug\net6.0\01_CampIntro.pdb
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.AssemblyInfoInputs.cache
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.AssemblyInfo.cs
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.sourcelink.json
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.dll
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\refint\01_CampIntro.dll
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.pdb
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\01_CampIntro.genruntimeconfig.cache
+C:\Users\Mir\source\repos\CampIntro\01_CampIntro\obj\Debug\net6.0\ref\01_CampIntro.dll

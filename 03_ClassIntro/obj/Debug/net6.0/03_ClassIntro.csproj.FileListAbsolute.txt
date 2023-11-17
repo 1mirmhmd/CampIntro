@@ -1,0 +1,15 @@
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\bin\Debug\net6.0\03_ClassIntro.exe
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\bin\Debug\net6.0\03_ClassIntro.deps.json
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\bin\Debug\net6.0\03_ClassIntro.runtimeconfig.json
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\bin\Debug\net6.0\03_ClassIntro.dll
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\bin\Debug\net6.0\03_ClassIntro.pdb
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.AssemblyInfoInputs.cache
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.AssemblyInfo.cs
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.sourcelink.json
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.dll
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\refint\03_ClassIntro.dll
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.pdb
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\03_ClassIntro.genruntimeconfig.cache
+C:\Users\Mir\source\repos\CampIntro\03_ClassIntro\obj\Debug\net6.0\ref\03_ClassIntro.dll

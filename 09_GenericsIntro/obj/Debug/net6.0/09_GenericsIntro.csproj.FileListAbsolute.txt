@@ -1,0 +1,15 @@
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\bin\Debug\net6.0\09_GenericsIntro.exe
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\bin\Debug\net6.0\09_GenericsIntro.deps.json
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\bin\Debug\net6.0\09_GenericsIntro.runtimeconfig.json
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\bin\Debug\net6.0\09_GenericsIntro.dll
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\bin\Debug\net6.0\09_GenericsIntro.pdb
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.AssemblyInfo.cs
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.sourcelink.json
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.dll
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\refint\09_GenericsIntro.dll
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.pdb
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\09_GenericsIntro.genruntimeconfig.cache
+C:\Users\Mir\source\repos\CampIntro\09_GenericsIntro\obj\Debug\net6.0\ref\09_GenericsIntro.dll

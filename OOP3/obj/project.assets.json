@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mir\\source\\repos\\CampIntro\\OOP3\\OOP3.csproj",
-      "projectName": "OOP3",
-      "projectPath": "C:\\Users\\Mir\\source\\repos\\CampIntro\\OOP3\\OOP3.csproj",
+      "projectUniqueName": "C:\\Users\\Mir\\source\\repos\\CampIntro\\OOP3\\10_OOP3.csproj",
+      "projectName": "10_OOP3",
+      "projectPath": "C:\\Users\\Mir\\source\\repos\\CampIntro\\OOP3\\10_OOP3.csproj",
       "packagesPath": "C:\\Users\\Mir\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mir\\source\\repos\\CampIntro\\OOP3\\obj\\",
       "projectStyle": "PackageReference",
