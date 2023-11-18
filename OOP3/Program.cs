@@ -17,6 +17,7 @@
 
             List<ICreditManager> credits = new List<ICreditManager>() {consumerManager, vehicleCreditManager };
             //applManager.CreditPreInform(credits);
+            Console.ReadLine();
         }
     }
 }
