@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N2c1Oe4y8fRuM0bvCq+e41Bx2NxqeCDlGUPuzIFSjsd3rDA6WJRSkTFYHuS5sn73OVXQ0GeZUIpTYAAV57VJvQ==",
+  "dgSpecHash": "677s78fxNs3ug/wV12vU3c6G3QkPtrccJ+gxgj//H1RDfpXJTup4FE1YLmDWUTo7PPolJQ5oW1FelNYoQkrzkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mir\\source\\repos\\CampIntro\\09_GenericsIntro\\09_GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\miruz\\source\\repos\\CampIntro\\09_GenericsIntro\\09_GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,7 +6,7 @@
         {
             /// Type safety - Tip Güvenliği
             // Don't repeat yourself
-            // değer tutucu/alias
+            // değer tutucu / alias - takma ad
             int numberOfstudent = 320000000;
             string kategori = "Kategori";
             double percentage = 1.45;
