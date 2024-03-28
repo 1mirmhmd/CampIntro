@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\miruz\\source\\repos\\CampIntro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E30F014-7D84-4207-9D28-4974B4DBAF38}|01_CampIntro\\01_CampIntro.csproj|c:\\users\\miruz\\source\\repos\\campintro\\01_campintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E30F014-7D84-4207-9D28-4974B4DBAF38}|01_CampIntro\\01_CampIntro.csproj|solutionrelative:01_campintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42539734-176A-422A-809F-FE7232AF38CD}|02_Loops\\02_Loops.csproj|c:\\users\\miruz\\source\\repos\\campintro\\02_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42539734-176A-422A-809F-FE7232AF38CD}|02_Loops\\02_Loops.csproj|solutionrelative:02_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30850E2B-F6C2-4BAC-951A-89BE146A7C43}|03_ClassIntro\\03_ClassIntro.csproj|c:\\users\\miruz\\source\\repos\\campintro\\03_classintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30850E2B-F6C2-4BAC-951A-89BE146A7C43}|03_ClassIntro\\03_ClassIntro.csproj|solutionrelative:03_classintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E30F014-7D84-4207-9D28-4974B4DBAF38}|01_CampIntro\\01_CampIntro.csproj|c:\\users\\miruz\\source\\repos\\campintro\\01_campintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E30F014-7D84-4207-9D28-4974B4DBAF38}|01_CampIntro\\01_CampIntro.csproj|solutionrelative:01_campintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\01_CampIntro\\Program.cs",
-              "RelativeDocumentMoniker": "01_CampIntro\\Program.cs",
-              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\01_CampIntro\\Program.cs",
-              "RelativeToolTip": "01_CampIntro\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T21:58:48.396Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -40,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\03_ClassIntro\\Program.cs",
+              "RelativeDocumentMoniker": "03_ClassIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\03_ClassIntro\\Program.cs",
+              "RelativeToolTip": "03_ClassIntro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T22:10:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\01_CampIntro\\Program.cs",
+              "RelativeDocumentMoniker": "01_CampIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\01_CampIntro\\Program.cs",
+              "RelativeToolTip": "01_CampIntro\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:58:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\02_Loops\\Program.cs",
               "RelativeDocumentMoniker": "02_Loops\\Program.cs",

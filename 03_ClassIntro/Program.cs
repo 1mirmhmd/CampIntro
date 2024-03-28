@@ -11,11 +11,12 @@
             course1.CourseName = "Kotlin";
             course1.Instructor = "Aziz";
             course1.ViewNumber = 345;
+            Course course2 = new Course() { CourseName = "C++", Instructor = "Nimet Polat", ViewNumber = 45 };
 
-            Course[] courses = new Course[] { course1, course };
-            foreach (var course_ in courses)
+            Course[] courses = new Course[] { course1, course, course2 };
+            foreach (Course course_ in courses)
             {
-                Console.WriteLine(course_.CourseName);
+                Console.WriteLine(course_.CourseName + ":" + course_.Instructor + "  " + course_.ViewNumber + "\n");
             }
 
         }
