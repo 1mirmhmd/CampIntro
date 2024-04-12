@@ -25,5 +25,9 @@ namespace _09_GenericsIntro
             }
             items[items.Length - 1] = item;
         }
+        public int Count
+        {
+            get { return items.Length; }
+        }
     }
 }
