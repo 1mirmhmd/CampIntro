@@ -1,6 +1,6 @@
 ﻿namespace _04_Methods
 {
-    // Dont Repeat Yourself - DRY - Clean Code - Best Practice
+    // Don't Repeat Yourself - DRY - Clean Code - Best Practice
     internal class Program
     {
         static void Main(string[] args)
@@ -28,6 +28,7 @@
             Console.WriteLine("---------- Methods ----------");
 
             // Instance -> Örnek
+            // Encapsulation - Kapsülleyerek düzene sokma
             BasketManager basketManager = new BasketManager();
             basketManager.Add(product0);
             basketManager.Add(product1);

@@ -11,6 +11,7 @@
             //Console.WriteLine(names[3]);
 
             List<string> names1= new List<string>() { "Aziz", "Nuri", "İhsan", "Kamil" };
+            //List<string> names1 = new List<string>();
             Console.WriteLine(names1[0]);
             Console.WriteLine(names1[1]);
             Console.WriteLine(names1[2]);

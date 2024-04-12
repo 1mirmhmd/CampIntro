@@ -13,7 +13,8 @@
 
             Product product1 = new Product() { Id = 2, CategoryId = 2, 
                 ProductName = "Mouse", UnitPrice = 5, UnitsInStock = 23 };
-
+            // Pascal Case   Camel Case
+            // Case Sensitive
             ProductManager productManager = new ProductManager();
             productManager.Add(product);
             Console.WriteLine(product.ProductName);

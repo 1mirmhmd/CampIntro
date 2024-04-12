@@ -17,7 +17,7 @@
       "projectName": "10_OOP3",
       "projectPath": "C:\\Users\\miruz\\source\\repos\\CampIntro\\OOP3\\10_OOP3.csproj",
       "packagesPath": "C:\\Users\\miruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miruz\\Source\\Repos\\CampIntro\\OOP3\\obj\\",
+      "outputPath": "C:\\Users\\miruz\\source\\repos\\CampIntro\\OOP3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
