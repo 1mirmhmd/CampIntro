@@ -20,6 +20,26 @@
             Console.WriteLine(cities1.Count);
 
 
+            Dictionary<string, int> keyValuePairs = new Dictionary<string, int>();
+            keyValuePairs.Add("Ali", 1995);
+            foreach (var item in keyValuePairs)
+            {
+                Console.WriteLine(item);
+            }
+
+            MyDictionary<string,string> nameSurname = new MyDictionary<string, string> ();
+            nameSurname.Add("Aziz", "Kulu");
+            foreach (var name in nameSurname.Keys)
+            {
+                Console.WriteLine("Name is : "+name);
+            }
+            nameSurname.Add("Güler", "Sundu");
+
+           
+
+
+
+
         }
     }
 }

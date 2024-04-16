@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\miruz\\source\\repos\\CampIntro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E924AD52-111A-426A-97FD-4177B1DD1765}|09_GenericsIntro\\09_GenericsIntro.csproj|c:\\users\\miruz\\source\\repos\\campintro\\09_genericsintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E924AD52-111A-426A-97FD-4177B1DD1765}|09_GenericsIntro\\09_GenericsIntro.csproj|solutionrelative:09_genericsintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E924AD52-111A-426A-97FD-4177B1DD1765}|09_GenericsIntro\\09_GenericsIntro.csproj|c:\\users\\miruz\\source\\repos\\campintro\\09_genericsintro\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E924AD52-111A-426A-97FD-4177B1DD1765}|09_GenericsIntro\\09_GenericsIntro.csproj|solutionrelative:09_genericsintro\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\abstract\\basecustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\abstract\\basecustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\abstract\\icustomercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\abstract\\icustomercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\adapters\\mernisserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\adapters\\mernisserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\concrete\\starbuckscustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\concrete\\starbuckscustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\concrete\\customercheckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\concrete\\customercheckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|c:\\users\\miruz\\source\\repos\\campintro\\11_interfaceabstractdemo\\concrete\\nerocustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E38781F-E926-468B-8747-0F04DB71BC3F}|11_InterfaceAbstractDemo\\11_InterfaceAbstractDemo.csproj|solutionrelative:11_interfaceabstractdemo\\concrete\\nerocustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +58,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyList.cs",
-              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\09_GenericsIntro\\MyList.cs",
-              "RelativeDocumentMoniker": "09_GenericsIntro\\MyList.cs",
-              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\09_GenericsIntro\\MyList.cs",
-              "RelativeToolTip": "09_GenericsIntro\\MyList.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAeAAAA",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Entities\\Customer.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T21:45:05.507Z",
+              "WhenOpened": "2024-04-16T21:30:46.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MernisServiceAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Adapters\\MernisServiceAdapter.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Adapters\\MernisServiceAdapter.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Adapters\\MernisServiceAdapter.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Adapters\\MernisServiceAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:24:02.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\BaseCustomerManager.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Abstract\\BaseCustomerManager.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\BaseCustomerManager.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Abstract\\BaseCustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:47:26.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerCheckService.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\ICustomerCheckService.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Abstract\\ICustomerCheckService.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\ICustomerCheckService.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Abstract\\ICustomerCheckService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:43:23.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Abstract\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\ICustomerService.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Abstract\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:38:17.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Abstract\\IEntity.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:39:44.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\09_GenericsIntro\\Program.cs",
-              "RelativeDocumentMoniker": "09_GenericsIntro\\Program.cs",
-              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\09_GenericsIntro\\Program.cs",
-              "RelativeToolTip": "09_GenericsIntro\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAfAAAA",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Program.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Program.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T21:42:29.808Z",
+              "WhenOpened": "2024-04-16T12:55:02.208Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StarbucksCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Concrete\\StarbucksCustomerManager.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Concrete\\StarbucksCustomerManager.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Concrete\\StarbucksCustomerManager.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Concrete\\StarbucksCustomerManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:43:06.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NeroCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Concrete\\NeroCustomerManager.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Concrete\\NeroCustomerManager.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Concrete\\NeroCustomerManager.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Concrete\\NeroCustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:44:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerCheckManager.cs",
+              "DocumentMoniker": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Concrete\\CustomerCheckManager.cs",
+              "RelativeDocumentMoniker": "11_InterfaceAbstractDemo\\Concrete\\CustomerCheckManager.cs",
+              "ToolTip": "C:\\Users\\miruz\\source\\repos\\CampIntro\\11_InterfaceAbstractDemo\\Concrete\\CustomerCheckManager.cs",
+              "RelativeToolTip": "11_InterfaceAbstractDemo\\Concrete\\CustomerCheckManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T19:53:23.537Z"
             }
           ]
         }

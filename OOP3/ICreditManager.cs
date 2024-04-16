@@ -8,6 +8,8 @@ namespace OOP3
 {
     internal interface ICreditManager
     {
+        // Unimplemented Operation : Tanımlanmamış/İçi doldurulmamuş operasyon
+
         void Calc();
         
     }

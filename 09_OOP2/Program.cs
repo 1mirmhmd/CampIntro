@@ -1,5 +1,6 @@
 ﻿namespace _09_OOP2
 {
+    // Bug free - hatadan hali
     internal class Program
     {
         static void Main(string[] args)
